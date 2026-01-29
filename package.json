@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"private": true,
 	"description": "Next Pizza educational project",
-	"author": "Albert Alan-Reys",
+	"author": "Alexey Alan-Reys",
 	"type": "module",
 	"scripts": {
 		"dev": "next dev --webpack",
@@ -23,7 +23,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/albert-alanreys/next-pizza.git"
+		"url": "git+https://github.com/alexey-alanreys/next-pizza.git"
 	},
 	"keywords": [
 		"nextjs",
